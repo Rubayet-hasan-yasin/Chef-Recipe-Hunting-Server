@@ -3,6 +3,7 @@
         "id": 1,
         "picture": "https://whatson.ae/wp-content/uploads/2019/04/akira-back-in-dubai.jpg",
         "name": "Akira Back",
+        "description": "Born in Seoul, Korea and raised in Aspen, Colorado, Akira Back moved to the rocky mountain state at the age of 15-years-old for his father to pursue the family business. Back picked up snowboarding as a hobby which led him to pursue the professional circuit where he appeared in a handful of extreme sports movies and garnered praise from the sports top trade publications. During this time, Back began working at a local Japanese restaurant to supplement his income. After seven years on the pro-snowboarding circuit, Back realized that he felt the same thrill in the kitchen as he did on his board, shaping his decision to pursue a full-time culinary career.",
         "experience": 12,
         "recipes": 5,
         "likes": 12000
@@ -11,6 +12,7 @@
         "id": 2,
         "picture": "https://whatson.ae/wp-content/uploads/2021/02/Alvin-Leung-Masterchef.jpeg",
         "name": "Alvin Leung",
+        "description": "Alvin's X-treme Chinese cuisine is an art form. He does to Chinese food what Picasso did to art - he breaks down traditional Chinese food to its bare essence and uses it to create new interpretations in modern forms. Despite his ''rock & roll'' image, Alvin's professional training as an engineer manifests in everything he presents. He puts together new dishes with engineering precision, substituting ingredients and methods of cooking until perfection is achieved. A single dish can take months to perfect and new menus featuring the latest innovative cooking techniques are eagerly awaited on by his regulars and food critics. Even with his press accolades, Alvin believes great tasting, innovative food alone doesn't translate into a great restaurant. Instead, a diner has to be completely immersed into the Bo Innovation experience which begins the moment the guest steps out of the lift.",
         "experience": 8,
         "recipes": 4,
         "likes": 8000
@@ -19,6 +21,7 @@
         "id": 3,
         "picture": "https://whatson.ae/wp-content/uploads/2021/01/CZN-Burak-new-restaurant-in-Dubai.png",
         "name": "CZNBurak",
+        "description": "I was born in the city of “Hatay”, the junction point of many civilizations and cultures therefore a meeting point of many different cuisines throughout the ages. Many years ago, my grandfather, who was a kunefe master and my father who operated the Zeytindal Restaurant in Sisli, Istanbul; they have become talented individuals of this culinary heritage and they have opened their restaurant. When I was 13 years old, I started working at my father's restaurant.",
         "experience": 15,
         "recipes": 5,
         "likes": 15000
@@ -28,6 +31,7 @@
         "picture": "https://whatson.ae/wp-content/uploads/2019/04/daniel-boulud.jpg",
         "name": "Daniel Boulud",
         "experience": 17,
+        "description": "Boulud opened Daniel in Manhattan's Upper East Side in 1993 before relocating the restaurant to a Venetian renaissance-inspired setting at Park Avenue and 65th Street in 1998. The original Daniel was re-launched as Café Boulud. He followed these openings by founding a more casual restaurant in Manhattan's theater district in 2001 and a second Café Boulud in Palm Beach, Florida, in 2003. Daniel Boulud Brasserie opened in 2005 inside the Wynn Las Vegas, three years before Bar Boulud, a French bistro opposite New York City's Lincoln Center, was opened in January 2008, the same year he opened Boulud à Pékin in Beijing. In 2003, Boulud was announced as the executive chef for the newly launched Cunard liner RMS Queen Mary 2.In December 2008, after the departure of founding chef Rob Feenie, Boulud reopened Vancouver restaurants Lumière and Feenie's .",
         "recipes": 4,
         "likes": 6000
     },
@@ -35,6 +39,7 @@
         "id": 5,
         "picture": "https://whatson.ae/wp-content/uploads/2021/05/Dario-Carna-Daylight-1.jpg",
         "name": "Dario Ceccini",
+        "description": "Cecchini, on a mission to protect and promote the traditional local butcher from the rise of the powerful supermarkets, explained that he believed butchery was an ancient art that involved a respect for the animal, seeing his role as that of teacher and educator. According to Cecchini, there were no premium and lower cuts of meat, but rather all the parts of the animal were useful if butchered and cooked in an appropriate way.[4] Cecchini argues that his work could amount to poetry, a combination of knowledge (understanding that you can use every part of the animal) and consciousness (respect for the animal) that can bring people back to the “original customs of the tribe, in a world where everything seems to be getting more and more commodified, processed and impersonal.",
         "experience": 14,
         "recipes": 4,
         "likes": 3000
@@ -43,6 +48,7 @@
         "id": 6,
         "picture": "https://whatson.ae/wp-content/uploads/2020/09/Caesars-Palace-Bluewaters-Dubai-Hells-Kitchen-Gordon-Ramsay-Portrait.jpg",
         "name": "Gordon Ramsay",
+        "description": "In 1993, Ramsay became head chef of Aubergine in London, and within three years Aubergine was awarded two Michelin stars. At the age of 35, Ramsay branched out on his own to set up his first wholly-owned and namesake restaurant, Restaurant Gordon Ramsay. Restaurant Gordon Ramsay opened in 1998, and quickly received the most prestigious accolade in the culinary world - three Michelin stars. Today, Restaurant Gordon Ramsay is London's longest-running restaurant to hold this award, and Ramsay is one of only four chefs in the UK to maintain three stars. Gordon also holds a Michelin star at his other London restaurant Pétrus in Knightsbridge. In addition to his stars in the UK, Gordon holds two stars at Le Pressoir d'Argent in Bordeaux and one star at Gordon Ramsay au Trianon in Versailles. ",
         "experience": 20,
         "recipes": 5,
         "likes": 25000
