@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "picture": "https://whatson.ae/wp-content/uploads/2019/04/akira-back-in-dubai.jpg",
+        "name": "Akira Back",
+        "experience": 12,
+        "recipes": 5,
+        "likes": 12000
+    },
+    {
+        "id": 2,
+        "picture": "https://whatson.ae/wp-content/uploads/2021/02/Alvin-Leung-Masterchef.jpeg",
+        "name": "Alvin Leung",
+        "experience": 8,
+        "recipes": 4,
+        "likes": 8000
+    },
+    {
+        "id": 3,
+        "picture": "https://whatson.ae/wp-content/uploads/2021/01/CZN-Burak-new-restaurant-in-Dubai.png",
+        "name": "CZNBurak",
+        "experience": 15,
+        "recipes": 5,
+        "likes": 15000
+    },
+    {
+        "id": 4,
+        "picture": "https://whatson.ae/wp-content/uploads/2019/04/daniel-boulud.jpg",
+        "name": "Daniel Boulud",
+        "experience": 17,
+        "recipes": 4,
+        "likes": 6000
+    },
+    {
+        "id": 5,
+        "picture": "https://whatson.ae/wp-content/uploads/2021/05/Dario-Carna-Daylight-1.jpg",
+        "name": "Dario Ceccini",
+        "experience": 14,
+        "recipes": 4,
+        "likes": 3000
+    },
+    {
+        "id": 6,
+        "picture": "https://whatson.ae/wp-content/uploads/2020/09/Caesars-Palace-Bluewaters-Dubai-Hells-Kitchen-Gordon-Ramsay-Portrait.jpg",
+        "name": "Gordon Ramsay",
+        "experience": 20,
+        "recipes": 5,
+        "likes": 25000
+    }
+]
