@@ -19,7 +19,8 @@ app.get('/chefs', (req, res)=>{
 app.get('/chef-recipes/:id', (req, res)=>{
     const id = req.params.id;
     const chef = chefsData.find(chef=> chef.id === +id)
-    res.send(chef)
+    const recipes = chefRecipe.filter(recipe=> recipe.id === +id)
+    res.send({chef,recipes})
 })
 
 app.listen(port, ()=>{
